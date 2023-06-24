@@ -64,7 +64,6 @@
 				E0F5CBD32A46F2E70046B968 /* Services */,
 				E0F5CBD22A46F2CF0046B968 /* Models */,
 				E0F5CBC42A46F2AF0046B968 /* ContactListApp.swift */,
-				E0F5CBDF2A46F3E20046B968 /* Subviews */,
 				E0F5CBDE2A46F3BE0046B968 /* Views */,
 				E0F5CBC82A46F2B30046B968 /* Assets.xcassets */,
 				E0F5CBCA2A46F2B30046B968 /* Preview Content */,
@@ -105,13 +104,6 @@
 				E0F5CBDC2A46F3B00046B968 /* PersonsListView.swift */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		E0F5CBDF2A46F3E20046B968 /* Subviews */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Subviews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
